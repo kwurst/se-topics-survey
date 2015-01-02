@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/kwurst/se-topics-survey.png?label=ready&title=Ready)](https://waffle.io/kwurst/se-topics-survey)
 se-topics-survey
 ================
 
