@@ -1,8 +1,26 @@
 
 ## Operating Systems
 
-1. Which flavors of linux have you used? (check all that apply)
+1. Which operating systems have you used? (check all that apply)
 
+    - [ ] Windows XP
+    - [ ] Windows 7
+    - [ ] Windows 8
+    - [ ] OSX 10.x
+    - [ ] Ubuntu
+    - [ ] Fedora
+    - [ ] CentOS
+    - [ ] RedHat
+    - [ ] SUSE
+    - [ ] Other ______________
+
+1. Which operating systems do you use for your personal machine(s) or machines
+   you maintain regularly? (check all that apply)
+
+    - [ ] Windows XP
+    - [ ] Windows 7
+    - [ ] Windows 8
+    - [ ] OSX 10.x
     - [ ] Ubuntu
     - [ ] Fedora
     - [ ] CentOS
@@ -18,6 +36,7 @@
     - [ ] Used Linux for home server
     - [ ] Used Linux professionally
     - [ ] Installed software under linux using a command-line package manager
+
 
 ##Copyright and License
 ####&copy; 2015 Karl R. Wurst and Stoney Jackson
