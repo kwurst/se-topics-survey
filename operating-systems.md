@@ -36,6 +36,9 @@
     - [ ] Used Linux for home server
     - [ ] Used Linux professionally
     - [ ] Installed software under linux using a command-line package manager
+    - [ ] Installed a linux OS using vertualization (e.g., virtual box)
+    - [ ] Setup a dual-booting system with linux as one of the OS
+    - [ ] Created a linux bootable CD, DVD, or flash drive
 
 
 ##Copyright and License
