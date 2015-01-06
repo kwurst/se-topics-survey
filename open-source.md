@@ -9,8 +9,15 @@
     - [ ] Looked at the code of an open-source product
     - [ ] Reported a bug for an open-source product
     - [ ] Requested a feature for an open-source product
+    - [ ] Edited documentation for an open-source product
     - [ ] Submitted a proposed fix for a bug
     - [ ] Had a proposed fix for a bug accepted
+    - [ ] Lurked on the IRC channel for an open-source product
+    - [ ] Subscribed to the mailing list for an open-source product
+    - [ ] Read the discussion board for an open-source product
+    - [ ] Asked/answered a question on the IRC channel for an open-source product
+    - [ ] Asked/answered a question on the mailing list for an open-source product
+    - [ ] Asked/answered a question on a discussion board for an open-source product
 
 
 ##Copyright and License
