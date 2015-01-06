@@ -8,6 +8,7 @@
     - [ ] BitBucket's
     - [ ] Trac
     - [ ] Google Code
+    - [ ] JIRA
     - [ ] Other ______________
 
 
